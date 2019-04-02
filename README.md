@@ -31,3 +31,5 @@ And then it'll translate it to RPN ("|" is a separator between numbers):
 ```
 
 And then finally it'll calculate and tell you result. Enjoy :)
+
+To exit safely type "q". If you are a bad boy (or girl) then type some gibberish and calulator will serfolt, lol.
